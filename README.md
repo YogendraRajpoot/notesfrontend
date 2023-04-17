@@ -22,4 +22,33 @@ The website's frontend is developed using React, offering a clean and intuitive 
 #### Secure Data Storage: 
 The notes data is stored securely in the MongoDB database, ensuring that user information is protected from unauthorized access. The backend API follows best practices for secure data handling and authentication to ensure the confidentiality and integrity of user data.
 
+### Tech Stack
+##### frontend:
+React
+HTML
+CSS
+JavaScript
+BootStrap
+##### Backend:
+Node.js
+Express
+MongoDB
+Mongoose
+##### Authentication & Authorization:
+JWT (JSON Web Tokens)
+BCRYPT
+##### Deployment:
+Render.com (for Backend)
+Netlify (for frontend)
+##### Version Control:
+Git
+GitHub
+##### Additional Tools:
+NPM (Node Package Manager)
+ESLint (optional for code linting)
+Prettier (optional for code formatting)
+##### Development Environment:
+VSCode (Visual Studio Code)
+Postman (for API testing)
+
 I am proud of this project and would be happy to discuss it further on my LinkedIn profile [LINKEDIN_LINK](https://www.linkedin.com/in/yogendrarajpoot/). Feel free to check out the deployed version of the website and the code on my GitHub repository.

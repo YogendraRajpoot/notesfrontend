@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Notes1 from "../assets/notes1.jpg";
-import Notes2 from "../assets/notes2.jpg";
+// import Notes1 from "../assets/notes1.jpg";
+// import Notes2 from "../assets/notes2.jpg";
 import Notes3 from "../assets/notes3.avif";
-import Notes4 from "../assets/notes4.jpg";
+// import Notes4 from "../assets/notes4.jpg";
 
 const Login = (props) => {
   const HEIGHT = window.innerHeight;
@@ -124,7 +124,7 @@ const Login = (props) => {
       >
         <h3 className="text-center">User Login</h3>
         <div className="mt-4">
-          <label for="email" class="form-label">
+          <label for="email" className="form-label">
             Email ID
           </label>
           <input
@@ -139,7 +139,7 @@ const Login = (props) => {
           />
         </div>
         <div className="mt-4">
-          <label for="password" class="form-label">
+          <label for="password" className="form-label">
             Password
           </label>
           <input

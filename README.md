@@ -1,9 +1,9 @@
-#Notes Website
+# Notes Website
 I have recently developed a full-stack notes website using the MERN (MongoDB, Express, React, Node.js) stack, completing the project in just 2 days. The website provides users with a seamless and secure experience for creating, editing, and deleting notes, and includes a login and signup feature for user authentication. The backend of the website is built using Node.js and Express, with MongoDB as the database for storing notes data. The frontend is developed using React, offering a user-friendly interface for managing notes efficiently.
 
 You can access the deployed version of the notes website at [DEPLOY_LINK](https://yogendranotes.netlify.app/).
 
-###Features:
+### Features:
 Login and Signup: The website includes a robust login and signup system that allows users to create an account or sign in to access the notes functionality. User authentication is handled securely using JWT (JSON Web Tokens) for enhanced security.
 
 Create Notes: Once logged in, users can create new notes by providing a title and content for the note. The notes are stored in the MongoDB database, with a unique identifier assigned to each note for easy retrieval.

@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+#Notes Website
+I have recently developed a full-stack notes website using the MERN (MongoDB, Express, React, Node.js) stack, completing the project in just 2 days. The website provides users with a seamless and secure experience for creating, editing, and deleting notes, and includes a login and signup feature for user authentication. The backend of the website is built using Node.js and Express, with MongoDB as the database for storing notes data. The frontend is developed using React, offering a user-friendly interface for managing notes efficiently.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can access the deployed version of the notes website at [DEPLOY_LINK](https://yogendranotes.netlify.app/).
 
-## Available Scripts
+###Features:
+Login and Signup: The website includes a robust login and signup system that allows users to create an account or sign in to access the notes functionality. User authentication is handled securely using JWT (JSON Web Tokens) for enhanced security.
 
-In the project directory, you can run:
+Create Notes: Once logged in, users can create new notes by providing a title and content for the note. The notes are stored in the MongoDB database, with a unique identifier assigned to each note for easy retrieval.
 
-### `npm start`
+Edit Notes: Users can edit their existing notes by modifying the title or content as needed. The backend API handles the update request, and the changes are reflected in the database to ensure the latest information is stored.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Delete Notes: The website allows users to delete notes that are no longer needed. Users can select a note they want to delete, and the backend API removes the note from the database, providing a seamless and efficient way to manage notes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+User-friendly Interface: The website's frontend is developed using React, offering a clean and intuitive interface for users to manage their notes. The notes are displayed in a visually appealing and organized manner, providing a user-friendly experience.
 
-### `npm test`
+Secure Data Storage: The notes data is stored securely in the MongoDB database, ensuring that user information is protected from unauthorized access. The backend API follows best practices for secure data handling and authentication to ensure the confidentiality and integrity of user data.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I am proud of this project and would be happy to discuss it further on my LinkedIn profile [LINKEDIN_LINK](https://www.linkedin.com/in/yogendrarajpoot/). Feel free to check out the deployed version of the website and the code on my GitHub repository.

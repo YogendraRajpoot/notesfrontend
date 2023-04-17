@@ -10,7 +10,7 @@ const Home = () => {
   const alertTag = ["success", "danger"];
 
   return (
-    <div>
+    <div className="container">
       {/* <img src={Notes1} className="position-fixed top-0 start-0 z-0" /> */}
       {Object.entries(alertMessage).length !== 0 && (
         <div

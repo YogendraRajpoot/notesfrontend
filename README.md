@@ -3,6 +3,10 @@ I have recently developed a full-stack notes website using the MERN (MongoDB, Ex
 
 You can access the deployed version of the notes website at [DEPLOY_LINK](https://yogendranotes.netlify.app/).
 
+![Login Page](https://i.ibb.co/Jy8JVz5/s1.png)
+![Signup Page](https://i.ibb.co/MhQ69Q8/s2.png)
+![About Page](https://i.ibb.co/B2Lx7dh/s3.png)
+
 ## Features:
 ### Login and Signup: 
 The website includes a robust login and signup system that allows users to create an account or sign in to access the notes functionality. User authentication is handled securely using JWT (JSON Web Tokens) for enhanced security.
